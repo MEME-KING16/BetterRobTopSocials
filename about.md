@@ -1,7 +1,7 @@
 # ![📱](frame:gj_twIcon_001.png?scale=0.625) Clean ![RobTop](frame:robtoplogo_small.png?scale=0.75) Socials
 **Clean up RobTop's social media menu!**
 
-*by [Cheeseworks](user:6408873)!*
+*by originally [Cheeseworks](user:6408873)!*
 
 ---
 
@@ -15,4 +15,4 @@ You can now <cy>stop misclicking those heckin' buttons</c>! Open the pop-up by <
 
 ---
 
-![🗨️](frame:gj_discordIcon_001.png?scale=0.375) **If you need help, join my [support Discord server](https://www.dsc.gg/cheeseworks) and ask! :)**
+![🗨️](frame:gj_discordIcon_001.png?scale=0.375) **If you need help, join my [support Discord server](https://discord.gg/X5ZU4cdnZt) and ask! :)**
