@@ -1,7 +1,7 @@
 # ![📱](frame:gj_twIcon_001.png?scale=0.625) Clean ![RobTop](frame:robtoplogo_small.png?scale=0.75) Socials
 **Clean up RobTop's social media menu!**
 
-*by originally [Cheeseworks](user:6408873)!*
+*originally by [Cheeseworks](user:6408873)!*
 
 ---
 
