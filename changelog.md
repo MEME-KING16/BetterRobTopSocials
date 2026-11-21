@@ -1,3 +1,6 @@
+# v1.4.0 
+- 2.2091
+
 # v1.3.1 
 - Minor menu UI tweak
 
